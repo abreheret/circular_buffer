@@ -1,7 +1,7 @@
-circular_buffer
+Circular Buffer
 ===============
 
-simple implemetation of circular buffer in c
+Simple implemetation of circular buffer in c
 
 
 Example :
